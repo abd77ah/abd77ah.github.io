@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>abd.77ah</title>
@@ -17,4 +16,4 @@ body {
 <body>
   fuck the haters🖕🖕
 </body>
-</html>[Textdokument (neu).txt](https://github.com/user-attachments/files/18967332/Textdokument.neu.txt)# abd77ah.github.io[Uploading Textdokument (neu).txt…]()
+
